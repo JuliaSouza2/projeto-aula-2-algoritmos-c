@@ -10,6 +10,7 @@ Neste projeto foram implementados os algoritmos:
 
 - 🔹 Insertion Sort
 - 🔹 Shell Sort
+- 🔹 Merge Sort
 
 Os algoritmos foram aplicados a um conjunto de dados contendo informações de funcionários.
 
